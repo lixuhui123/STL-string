@@ -1,10 +1,10 @@
 #include <iostream>
-#include <string>//c++
+#include <string>//C++
 #include <cstring>//C语言
 
 using namespace std;
 
-int main()
+int maindw()
 {
 	string s1;
 	string s2("12345600");
@@ -34,13 +34,13 @@ int main()
 	for (auto i=s1.begin();i!=s1.end();i++)
 	{
 		/* begin第一个元素，end最后一个元素，但是end不存在数据 */
-
+		return *i;
 	}
 	string::iterator i;
 	for ( i = s1.begin(); i != s1.end(); i++)
 	{
 		 
-
+		cout << *i;/* resize而变成0的会以空格的方式实现 */
 	}
 	for (auto & i:s1)
 	{
