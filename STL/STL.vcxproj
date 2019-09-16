@@ -122,8 +122,8 @@
     <ClCompile Include="string.cpp" />
     <ClCompile Include="substr.cpp" />
     <ClCompile Include="test.cpp" />
-    <ClCompile Include="tmpp.cpp" />
-    <ClCompile Include="源.cpp" />
+    <ClCompile Include="tmp.cpp" />
+    <ClCompile Include="内部类.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="string.h" />

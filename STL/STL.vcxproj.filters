@@ -24,16 +24,16 @@
     <ClCompile Include="test.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="tmpp.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="substr.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="main.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="源.cpp">
+    <ClCompile Include="内部类.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="tmp.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
