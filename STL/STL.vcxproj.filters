@@ -36,6 +36,15 @@
     <ClCompile Include="tmp.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="翻转字符串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c 翻转.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="找出第一个出现的字符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="string.h">
