@@ -119,14 +119,18 @@
   <ItemGroup>
     <ClCompile Include="c 翻转.cpp" />
     <ClCompile Include="const string.cpp" />
+    <ClCompile Include="Leetcode高精乘.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="rfind等函数的实现.cpp" />
     <ClCompile Include="string.cpp" />
-    <ClCompile Include="substr.cpp" />
+    <ClCompile Include="老师的高精乘.cpp" />
+    <ClCompile Include="高精乘.cpp" />
     <ClCompile Include="test.cpp" />
     <ClCompile Include="tmp.cpp" />
     <ClCompile Include="内部类.cpp" />
     <ClCompile Include="找出第一个出现的字符.cpp" />
     <ClCompile Include="翻转字符串.cpp" />
+    <ClCompile Include="部分翻转单词.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="string.h" />
