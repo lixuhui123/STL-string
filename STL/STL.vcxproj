@@ -123,7 +123,9 @@
     <ClCompile Include="main.cpp" />
     <ClCompile Include="rfind等函数的实现.cpp" />
     <ClCompile Include="string.cpp" />
+    <ClCompile Include="源.cpp" />
     <ClCompile Include="老师的高精乘.cpp" />
+    <ClCompile Include="退格测试.cpp" />
     <ClCompile Include="高精乘.cpp" />
     <ClCompile Include="test.cpp" />
     <ClCompile Include="tmp.cpp" />
